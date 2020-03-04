@@ -1,2 +1,5 @@
 # helloworld
-My first repository
+
+hello my friend
+
+  Well, it's just my first tentative repository.
